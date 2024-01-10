@@ -13,3 +13,26 @@
 .accentCol{
     background-color: #b46bd6;
 }
+
+.nav-head{
+    color:#141C57;
+    font-weight: 700;
+}
+
+
+
+.navGradient{
+    background: linear-gradient(to right, #f32170, 
+        #ff6b08, #cf23cf, #eedd44); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+}
+.gradient{
+    background: linear-gradient(to right, #016b38, 
+        #000000); 
+}
+.gradient2{
+    background: linear-gradient(to right, #0cdcbd, #f6a746);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
