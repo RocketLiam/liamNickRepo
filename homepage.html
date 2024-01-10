@@ -23,16 +23,25 @@
 			    -webkit-text-fill-color: transparent; 
 			    -webkit-background-clip: text; 
             }
+            .gradient{
+                background: linear-gradient(to right, #FFFFFF, 
+					#000000); 
+            }
+            .gradient2{
+                background: linear-gradient(to right, #0cdcbd, #f6a746);
+                -webkit-text-fill-color: transparent;
+                -webkit-background-clip: text;
+            }
         </style>
     </head>
 
     <body>
         <header> 
             <nav
-                class="navbar navbar-expand-sm navbar-light bg-light"
+                class="navbar navbar-expand-sm navbar-light bg-light gradient"
             >
                 <div class="container">
-                    <a class="navbar-brand" href="#"><p class="navGradient">Navbar</p></a>
+                    <a class="navbar-brand navGradient" href="#">Navbar</a>
                     <button
                         class="navbar-toggler d-lg-none"
                         type="button"
@@ -85,7 +94,7 @@
                                 placeholder="Search"
                             />
                             <button
-                                class="btn btn-outline-success my-2 my-sm-0"
+                                class="btn btn-outline-success my-2 my-sm-0 gradient2"
                                 type="submit"
                             >
                                 Search
