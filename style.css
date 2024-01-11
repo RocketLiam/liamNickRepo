@@ -13,10 +13,27 @@
 .accentCol{
     background-color: #b46bd6;
 }
+.nav-background{
+    background-color: #e6e2fb;
+}
 
 .nav-head{
     color:#141C57;
     font-weight: 700;
+}
+.page-head{
+    background-color: #514bce;
+    padding: 30px;
+    color:#f1effb;
+    margin-top:30px;
+    margin-bottom: 30px;
+}
+.page-head h1{
+    font-size: 70px;
+    font-weight: 800;
+}
+.page-head p{
+    font-size:40px;
 }
 
 
