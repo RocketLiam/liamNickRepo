@@ -69,3 +69,40 @@
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 }
+.unit1{
+    background-color: #ba8fe0;
+}
+.unit1 a{
+    background-color: #b46bd6;
+}
+.u1{
+    background-color: #b46bd6;
+}
+.unit2{
+    background-color: #e77fa7;
+}
+.unit2 a{
+    background-color: #f75e99;
+}
+.u2{
+    background-color: #f75e99;
+
+}
+.unit3{
+    background-color: #a8f4a5;
+}
+.unit3 a{
+    background-color: #7ce078;
+}
+.u3{
+    background-color: #7ce078;
+}
+.unit4{
+    background-color: #a3cbff;
+}
+.unit4 a{
+    background-color: #73bbff;
+}
+.u4{
+    background-color: #73bbff;
+}
