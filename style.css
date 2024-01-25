@@ -106,3 +106,10 @@
 .u4{
     background-color: #73bbff;
 }
+
+.body-text p{
+    margin-bottom: 60px;
+}
+.body-text hr{
+    margin-bottom: 60px;
+}
