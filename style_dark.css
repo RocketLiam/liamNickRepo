@@ -98,7 +98,11 @@
     margin-bottom: 60px;
 }
 .body-text h3{
-    margin-bottom: 15px
+    margin-bottom: 15px;
+    color:#daddf6;
+}
+.body-text h1{
+    color:#daddf6;
 }
 .dropdown-menu{ 
     background-color: #1b1249;
