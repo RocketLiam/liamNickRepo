@@ -100,3 +100,13 @@
 .body-text h3{
     margin-bottom: 15px
 }
+.dropdown-menu{ 
+    background-color: #1b1249;
+}
+.dropdown-item{
+    color: #a8b0eb;
+}
+hr.dropdown-divider{
+    border-top: 1px solid #a8b0eb;
+}
+    
