@@ -16,7 +16,6 @@
 .nav-background{
     background-color: #e6e2fb;
 }
-
 .nav-head{
     color:#141C57;
     font-weight: 700;
@@ -38,36 +37,17 @@
 .page-text{
     color: #141C57;
 }
-
 .homepageUnitText {
     font-size: 80px;
 }
-
 .homepageSpacing {
     margin-top: 100px;
 }
-
 .indent {
     margin-left: 25px;
 }
 .indentStrong {
     margin-left: 50px;
-}
-
-.navGradient{
-    background: linear-gradient(to right, #f32170, 
-        #ff6b08, #cf23cf, #eedd44); 
-    -webkit-text-fill-color: transparent; 
-    -webkit-background-clip: text; 
-}
-.gradient{
-    background: linear-gradient(to right, #016b38, 
-        #000000); 
-}
-.gradient2{
-    background: linear-gradient(to right, #0cdcbd, #f6a746);
-    -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
 }
 .unit1{
     background-color: #ba8fe0;
@@ -86,7 +66,6 @@
 }
 .u2{
     background-color: #f75e99;
-
 }
 .unit3{
     background-color: #a8f4a5;
@@ -106,7 +85,6 @@
 .u4{
     background-color: #73bbff;
 }
-
 .body-text p{
     margin-bottom: 60px;
     font-size:20px;
